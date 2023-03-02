@@ -1,3 +1,5 @@
+#Data Analyst Portfolio Projects Website
+
 This repository contains the code for my data analyst portfolio projects website. The website showcases my data analysis projects, highlighting my skills and experience in various areas such as data visualization, statistical analysis, and other database related analysis.
 
 The website is built using HTML, CSS, and JavaScript, and it is responsive and optimized for desktop and mobile devices.
